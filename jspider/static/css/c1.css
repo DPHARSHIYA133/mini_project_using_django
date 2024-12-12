@@ -1,0 +1,17 @@
+span{
+    color:orange;
+}
+div{
+    background-color: rgb(8, 8, 72);
+    color:white;
+
+    padding:15px;
+
+}
+#o{
+    color:orange;
+    text-decoration: underline;
+}
+button:hover{
+    color:white;
+}
